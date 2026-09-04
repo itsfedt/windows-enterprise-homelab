@@ -1,0 +1,23 @@
+# Project Roadmap
+
+- [x] Day 1 — Requirements and repository setup
+- [ ] Day 2 — Network design
+- [ ] Day 3 — Virtualization environment
+- [ ] Day 4 — DC01 network configuration
+- [ ] Day 5 — Active Directory deployment
+- [ ] Day 6 — OU design
+- [ ] Day 7 — Users and groups
+- [ ] Day 8 — PowerShell user provisioning
+- [ ] Day 9 — DNS
+- [ ] Day 10 — DHCP
+- [ ] Day 11 — Windows client deployment
+- [ ] Day 12 — Domain join
+- [ ] Day 13 — Group Policy
+- [ ] Day 14 — File server deployment
+- [ ] Day 15 — Permissions and AGDLP
+- [ ] Day 16 — Mapped drives
+- [ ] Day 17 — PowerShell administration
+- [ ] Day 18 — Employee offboarding
+- [ ] Day 19 — Security hardening
+- [ ] Day 20 — Troubleshooting
+- [ ] Day 21 — Portfolio documentation
