@@ -1,0 +1,26 @@
+flowchart TB
+
+    Internet((Internet))
+
+    Host["Host PC<br/>Virtualization Platform"]
+
+    Gateway["Virtual NAT Gateway<br/>10.10.10.1"]
+
+    Network["ASTERIA LAB LAN<br/>10.10.10.0/24"]
+
+    DC["DC01<br/>10.10.10.10<br/>AD DS / DNS / DHCP"]
+
+    FS["FS01<br/>10.10.10.20<br/>File Server"]
+
+    C1["CLIENT01<br/>DHCP<br/>Domain Workstation"]
+
+    C2["CLIENT02<br/>DHCP<br/>Future Entra / Intune"]
+
+    Internet --- Host
+    Host --- Gateway
+    Gateway --- Network
+
+    Network --- DC
+    Network --- FS
+    Network --- C1
+    Network --- C2
