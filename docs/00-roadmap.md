@@ -1,7 +1,7 @@
 # Project Roadmap
 
 - [x] Day 1 — Requirements and repository setup
-- [ ] Day 2 — Network design
+- [x] Day 2 — Network design
 - [ ] Day 3 — Virtualization environment
 - [ ] Day 4 — DC01 network configuration
 - [ ] Day 5 — Active Directory deployment

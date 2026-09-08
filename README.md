@@ -24,7 +24,7 @@ Employees: 60
 
 ## Status
 
-In development —— Day 1: Project requirements and infrastructure planning
+In development —— Day 3: Virtualisation environment and DC01 deployment
 
 ## Documentation
 
