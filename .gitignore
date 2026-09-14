@@ -1,0 +1,15 @@
+# Virtual machine files
+*.vhd
+*.vhdx
+*.avhdx
+*.vmcx
+*.vmrs
+
+# Operating system installation media
+*.iso
+
+# Credentials and secrets
+*.key
+*.pfx
+*.pem
+.env
